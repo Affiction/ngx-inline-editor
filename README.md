@@ -1,4 +1,4 @@
-# Native UI Inline-editor Angular (version 9+) component ([demo](demos))
+# Native UI Inline-editor Angular (version 9+) component
 
 This is a fork of the main qontu project. The is fork attempts to upgrade to Angular 9+. We will, at a later point add more features.
 
